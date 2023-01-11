@@ -26,12 +26,10 @@
 package java.applet;
 
 import java.awt.Image;
-import java.awt.Graphics;
-import java.awt.image.ColorModel;
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.URL;
 import java.util.Enumeration;
-import java.io.InputStream;
-import java.io.IOException;
 import java.util.Iterator;
 
 /**
